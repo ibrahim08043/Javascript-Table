@@ -1,0 +1,60 @@
+input {
+
+    background-color: #cac5c5;
+    color: black;
+    font-weight: bolder;
+    font-style: italic;
+    width: 50vh;
+    border-radius: 5px;
+    height: 6ch;
+}
+
+.but {
+    color: black;
+    background-color: rgb(117, 141, 148);
+    border-color: rgb(0, 0, 0);
+    border-radius: 20PX;
+    width: 12vh;
+    height: 4vh;
+    font-weight: bolder;
+}
+
+div {
+
+    margin-left: 70vh;
+    margin-top: 10vh;
+}
+
+h1 {
+
+    color: rgb(29, 26, 26);
+    font-size: 70px;
+    margin-left: 0vh;
+    font-family: sans-serif;
+
+
+}
+
+.javes {
+    color: black;
+    background-color: rgb(117, 141, 148);
+    border-color: rgb(0, 0, 0);
+    width: 20vh;
+    border-radius: 20PX;
+    height: 4vh;
+    margin-left: 19vh;
+    margin-top: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 2vh;
+}
+
+.con{
+    margin-top: 200px;
+    margin-left: 550px;
+}
+
+body {
+
+    background-color: #006d77;
+}
